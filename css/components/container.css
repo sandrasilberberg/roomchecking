@@ -1,0 +1,15 @@
+.container {
+	width: 1500px;
+	margin: 0px auto;
+	color: #29437f;
+	font: Nunito;
+
+}
+
+.container h1, h2 {
+	color: #edf1ff;
+	font-size: 50px;
+	font: Nunito;
+
+}
+ 
